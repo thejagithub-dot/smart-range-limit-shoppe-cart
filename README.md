@@ -1,1 +1,1 @@
-# smart-range-limit-shoppe-cart
+# smart-range-limit-shopping-cart
